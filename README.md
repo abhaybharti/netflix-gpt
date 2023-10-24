@@ -1,10 +1,12 @@
 # Setup Project
 
-## create-react-app
+- create-react-app
 
-## Configured tailwind css
+- Configured tailwind css
+- Header
+- Login Form
 
-## Features
+# Features
 
 - Login/Sign Up
   - Sign In/Sign Up form
@@ -19,3 +21,5 @@
 - NetflixGPT
   - Search Bar
   - Movie Suggestion
+
+Chapter 14 : 57
