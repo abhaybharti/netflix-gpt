@@ -5,6 +5,7 @@
 - Configured tailwind css
 - Header
 - Login Form
+- Sign up Form
 
 # Features
 
@@ -23,3 +24,8 @@
   - Movie Suggestion
 
 Chapter 14 : 57
+
+Further Reading
+tailwindcss absolute relative z-index
+
+Formik library to validate form
